@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paeddasan
 - 👀 I’m interested in sports science, exercise science and rehabilitation
-- 🌱 I’m currently learning python and data science to make my work more efficient and get some data behind it!
+- 🌱 I’m currently learning python, R and data science to make my work more efficient and get some data behind it!
 -    I'm a beginner with git and everything around that :-)
 
 
