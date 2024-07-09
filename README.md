@@ -1,2 +1,2 @@
 - 👀 I’m interested in sports science, exercise science and rehabilitation
-- 🌱 I’m currently learning R and Python for my work
+- Special interest in 🏃exercise and 🤯 psychological stress
