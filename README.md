@@ -1,2 +1,1 @@
-- 👀 I’m interested in sports science, exercise science and rehabilitation
-- Special interest in 🏃exercise and 🤯 psychological stress
+- 👀 I’m interested in sports science, human movement and rehabilitation
